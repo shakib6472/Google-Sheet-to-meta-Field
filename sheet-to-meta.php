@@ -9,7 +9,7 @@
  * Text Domain:       shakib
  */
 
-if (!defined('ABSPATH')) {
+if (!defined('ABSPATH')) { 
     exit;
 }
 
